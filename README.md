@@ -3,8 +3,9 @@
 
 - 🔭 Have good experience working on React, Android & Python.
 - 🌱 I’m currently learning a lot of things.
-- 📫 How to reach me: [Connect](linkedin.com/in/snh3003)
+- 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/snh3003)
 - :books: Like to read?: [Follow](https://medium.com/@shahsama542)
+- 💻: My portfolio [Click here](https://github.com/snh3003/personalportfolio)
 - ⚡ Fun fact: Few lines of code can do wonders.
 
 **Languages and Tools:**  
