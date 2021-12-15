@@ -1,8 +1,8 @@
 ### Hi there,  👋
 <img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="snh3003" />
 
-- 🔭 Have good experience working on React, DSA, Android & Python.
-- 🌱 I’m currently learning a lot of things.
+- 🔭 Have good experience working on React, React Native, Angular, DSA.
+- 🌱 I’m currently upskilling.
 - 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/snh3003)
 - :books: Like to read?: [Follow](https://medium.com/@shahsama542)
 - 💻: My portfolio [Click here](https://snh3003.github.io/personalportfolio/)
@@ -10,6 +10,7 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"></code>
 <code><img height="20" src="https://reactjs.org/logo-og.png"></code>
 <code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU"></code>
