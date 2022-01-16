@@ -1,7 +1,7 @@
 ### Hi there,  👋
 <img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="snh3003" />
 
-- 🔭 Have good experience working on React, React Native, Angular, DSA.
+- 🔭 Have good experience working on React, React Native, Angular, and DSA.
 - 🌱 I’m currently upskilling.
 - 📫 Got incredible ideas that you wish to discuss? : [Connect](linkedin.com/in/snh3003)
 - :books: Like to read?: [Follow](https://medium.com/@shahsama542)
